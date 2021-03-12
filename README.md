@@ -1,4 +1,4 @@
-#Spotify
+# Spotify
 
 # Getting Started
 ![getting started](./src/spotifyImages/home.png)
