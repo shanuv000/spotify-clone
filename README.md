@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+#Spotify
+
+# Getting Started
+![getting started](./src/spotifyImages/home.png)
+
+# Authentication
+![Authentication](./src/spotifyImages/authentication.png)
+
+# Fetched User Playlist
+![Playlist](./src/spotifyImages/userPlaylist.png)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
