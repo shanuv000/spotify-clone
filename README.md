@@ -7,7 +7,7 @@
 ![Authentication](./src/spotifyImages/authentication.png)
 
 # Fetched User Playlist
-![Playlist](./src/spotifyImages/userPlaylist.png)
+![Playlist](./src/spotifyImages/usersPlaylist.png)
 
 
 ## Getting Started with Create React App
